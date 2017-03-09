@@ -42,7 +42,7 @@ namespace if_else
             else
             {
                 Console.WriteLine("I speak in spanish whe I get mad. Te dije que pusieras un numero del 1 al 3 como puta madre tendre que decirlo");
-            }      
+            }        
 
         }
 
